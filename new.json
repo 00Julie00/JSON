@@ -1,0 +1,6 @@
+var person = {
+    "name":"Julia",
+    "surname":"Ruanova",
+    "pets": false,
+    "future salary":"600 $"
+             }
